@@ -7,7 +7,7 @@
 }
 
 .tarea-input {
-    width: 350PX;
+    width: 405PX;
     font-size: 18PX;
     background-color: white;
     padding: 14px 32px 14px 16px;
@@ -26,5 +26,5 @@
     outline: none;
     background: #00471b;
     color: #fff;
-    text-transform: capitalize;
+    text-transform: capitalize; /* Faz com que cada primeira letra da palavra seja maiúscula*/
 }
