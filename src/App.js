@@ -1,5 +1,6 @@
 import './App.css';
 import logo from './Imagenes/logo.png';
+import Tarea from './componentes/Tarea';
 
 function App() {
   return (
@@ -15,7 +16,7 @@ function App() {
       <div
         className='tareas-lista-principal'>
           <h1>Mis Tareas</h1>
-
+          <Tarea />
       </div>
         
 
